@@ -1,4 +1,9 @@
 p{
-    color:red;
+    color:seashell;
     font-family: cursive;
+    text-align: center;
+    font-size: 35px;
+}
+body{
+    background-color: royalblue;
 }
